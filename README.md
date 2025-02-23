@@ -14,6 +14,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## Active Directory(VirtualBox)
 - **[Basic Active Directory](https://github.com/BeeChang12/Active-Directory-VirtualBox-)**
 
+## Cybersecurity Honeypot Lab
+- **[Azure Honeypot Lab](https://github.com/BeeChang12/Home-SOC-Lab)** 
+
 
 ## 🤳 Connect With Me
 
